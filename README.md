@@ -61,7 +61,3 @@ print("Class List:", class_list)
 
 voc_to_yolo(input_dir, output_dir, class_list)
 ```
-
-## License
-
-This project is licensed under the MIT License.
